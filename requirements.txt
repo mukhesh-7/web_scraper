@@ -1,0 +1,7 @@
+scrapy
+scrapy-playwright
+pandas
+openpyxl
+playwright
+beautifulsoup4
+requests
